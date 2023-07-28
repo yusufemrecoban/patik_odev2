@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "patik_odev2/1.0.0": {
+        "runtime": {
+          "patik_odev2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "patik_odev2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
